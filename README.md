@@ -6,4 +6,4 @@
 
 **Location:** Universidad Politécnica de Madrid, Madrid, Spain  
 
-**Year:** 2025  
+**Dates:** 18–22 June 2025  
