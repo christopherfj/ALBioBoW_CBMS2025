@@ -11,5 +11,5 @@
 **Year:** 2025  
 
 **Notebooks:**  
-- `main.ipynb`: Main code execution.  
-- `results.ipynb`: Results visualization.  
+- [`main.ipynb`](./main.ipynb): Main code execution.  
+- [`results.ipynb`](./results.ipynb): Results visualization (located in [`out/ResultsLC`](./out/ResultsLC)).  
