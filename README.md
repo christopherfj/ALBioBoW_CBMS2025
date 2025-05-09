@@ -1,9 +1,15 @@
 # Active Learning in Biomedical Text Classification Using a Bag-of-Regular-Expressions Approach  
 
-**Authors:** Christopher A. Flores and Rodrigo Verschae  
+**Authors:** Christopher A. Flores, Rodrigo Verschae  
 
 **Conference:** 38th IEEE International Symposium on Computer-Based Medical Systems (CBMS)  
 
 **Location:** Universidad Politécnica de Madrid, Madrid, Spain  
 
 **Dates:** 18–22 June 2025  
+
+**Year:** 2025  
+
+**Notebooks:**  
+- `main.ipynb`: Main code execution.  
+- `results.ipynb`: Results visualization.  
